@@ -25,7 +25,7 @@ Welcome to my personal portfolio! This project is a sleek, responsive, and inter
 
 ## Live Demo
 <p align="center">
-  <a href=",">
+  <a href="http://127.0.0.1:3000/portfolio/index.html#about">
     <img src="https://img.shields.io/badge/Live%20Project-View%20Now-ff3d00?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>

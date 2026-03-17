@@ -15,17 +15,17 @@ Welcome to my personal portfolio! This project is a sleek, responsive, and inter
 ---
 
 ## Preview
-<img width="1918" height="717" alt="1" src="https://github.com/user-attachments/assets/3ed36580-1808-4cad-8600-1797dd58a3da" />
+<img width="1918" height="717" alt="1" src="https://github.com/user-attachments/assets/d50afa68-dc47-4169-9c60-e2d0298e4a81" />
 
-<img width="1918" height="765" alt="2" src="https://github.com/user-attachments/assets/7e5dd6f9-c8dc-4c34-98ae-845be92cf285" />
+<img width="1918" height="765" alt="2" src="https://github.com/user-attachments/assets/54f78312-7116-4e97-885d-c1fa08bc086f" />
 
-<img width="1891" height="848" alt="3" src="https://github.com/user-attachments/assets/8374cdb1-38a7-4c01-b16a-af07158dad30" />
+<img width="1891" height="848" alt="3" src="https://github.com/user-attachments/assets/d6f60710-af6d-409d-942e-9bca743b13b4" />
 
 ---
 
 ## Live Demo
 <p align="center">
-  <a href="">
+  <a href=",">
     <img src="https://img.shields.io/badge/Live%20Project-View%20Now-ff3d00?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
